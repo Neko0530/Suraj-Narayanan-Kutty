@@ -1,1 +1,19 @@
-# Suraj-Narayanan-Kutty
+
+# 💫 About Me:
+# 👋 Hi, I'm Suraj Narayanan Kutty<br><br>**Data Analyst | SQL • Python • Power BI • Machine Learning • AI**<br><br>I use **data, analytics, and technology to solve practical business problems**. My GitHub is where I document that work through hands-on projects, SQL analysis, dashboards, machine learning experiments, and AI applications.<br><br>### 🧐 What I Work On<br><br>* **Data Analytics & SQL** — querying, transforming, and analyzing real-world datasets<br>* **Business Intelligence** — Power BI, Tableau, dashboards, and reporting<br>* **Python & Machine Learning** — predictive modelling, data mining, and NLP<br>* **AI & LLM Applications** — RAG, LangChain, LangGraph, and applied AI<br>* **Banking Analytics** — customer, account, transaction, and operational data<br><br>### 💼 Professional Background<br><br>I have experience in **banking operations and analytics**, working with customer and transaction data, reporting, Excel-based analysis, and **UAT coordination for Virtual Account Management (VAM)** and banking systems.<br><br>My academic background is in **Data Science and Analytics**, where I worked on machine learning, data visualization, and NLP projects, including a master's thesis focused on **biomedical text mining**.<br><br>### 🛠️ Tech Stack<br><br>**Analytics:** SQL • Python • R • Excel • Power BI • Tableau • Alteryx<br><br>**Machine Learning:** Scikit-learn • TensorFlow • PyTorch • NLP<br><br>**AI:** LangChain • LangGraph • RAG • LLMs • Prompt Engineering<br><br>### 🚀 What You'll Find Here<br><br>This GitHub is a collection of **practical, end-to-end projects** rather than just code examples. I focus on projects that start with a business question, work through the data, and turn the analysis into something useful.<br><br>### 📫 Connect<br><br>**LinkedIn:** [linkedin.com/in/surajnarayanan0501](https://www.linkedin.com/in/surajnarayanan0501/)<br><br>I'm always interested in building projects that combine **analytics, machine learning, AI, and real-world business problems**.<br>
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/surajnarayanan0501/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:SurajNarayananKutty@outlook.com) 
+
+# 💻 Tech Stack:
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Suraj Narayanan Kutty&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Suraj Narayanan Kutty&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Suraj Narayanan Kutty&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Suraj Narayanan Kutty&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
